@@ -30,7 +30,7 @@ export default function Footer() {
           <span aria-label="heart" role="img">
             &#128153;
           </span>
-          {" (and React) by Jarrod Servilla"}
+          {" (and React) by Programming-School"}
         </Text>
       </Link>
       <Stack direction="row" alignItems="center" justify="center">
