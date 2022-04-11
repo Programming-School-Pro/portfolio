@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 import { Text, useColorModeValue, VStack } from "@chakra-ui/react";
 import React from "react";
 import { BsChevronDown } from "react-icons/bs";
