@@ -7,7 +7,7 @@ import { animateScroll as scroll } from "react-scroll";
 import links from "../data/footerLinks";
 import LinkIconBar from "./LinkIconBar";
 
-const GITHUB_URL = "https://github.com/jcserv/portfolio";
+const GITHUB_URL = "https://github.com/Programming-School-Pro/portfolio";
 
 export default function Footer() {
   const [forks, setForks] = useState(0);
@@ -30,7 +30,7 @@ export default function Footer() {
           <span aria-label="heart" role="img">
             &#128153;
           </span>
-          {" (and React) by Jarrod Servilla"}
+          {" (and React) by Programming-School"}
         </Text>
       </Link>
       <Stack direction="row" alignItems="center" justify="center">

@@ -1,3 +1,5 @@
+/* Made with ❤ by Programming School */
+
 import React from "react";
 
 import About from "../components/sections/About";

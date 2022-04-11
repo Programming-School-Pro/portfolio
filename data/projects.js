@@ -1,8 +1,10 @@
+/* Made with ❤ By Programming School */
+
 const projects = [
   {
     name: "ULinks.io",
     description:
-      "ULinks.io is a platform for students to browse & upload academic group chats to stay connected during online school, with 1500+ users",
+      "ULinks.io is a platform for students to browse & upload academic group chats to stay connected during online school",
     pic: "/ulinks.PNG",
     tech: ["React", "GraphQL", "Node.js"],
     links: [
