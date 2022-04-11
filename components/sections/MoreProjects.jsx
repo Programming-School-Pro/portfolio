@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 import React from "react";
 
 import MoreProjectsGrid from "../MoreProjectsGrid";
