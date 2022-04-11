@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 import {
   GridItem,
   Image,
