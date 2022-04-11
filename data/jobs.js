@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 const jobs = [
   {
     workplace: "SailPoint",

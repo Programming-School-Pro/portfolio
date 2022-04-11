@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 import { EmailIcon } from "@chakra-ui/icons";
 import { Button, Flex, Link, Text } from "@chakra-ui/react";
 import { Grid } from "@material-ui/core";

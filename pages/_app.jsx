@@ -1,3 +1,5 @@
+/* Made with ❤ by Programming School */
+
 import "../styles/globals.css";
 
 import { ChakraProvider } from "@chakra-ui/react";

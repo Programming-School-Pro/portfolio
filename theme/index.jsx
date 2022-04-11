@@ -1,3 +1,5 @@
+/* Made with ❤ by Programming School */
+
 import { extendTheme } from "@chakra-ui/react";
 
 const config = {

@@ -1,3 +1,5 @@
+/* Made with ❤ By Programming School */
+
 import {
   GridItem,
   Image,
@@ -23,7 +25,7 @@ const Bio = ({ secondary }) => (
       <Text>
         I&apos;m currently working at SailPoint as a{" "}
         <strong style={{ color: secondary }}>Software Engineer</strong> on the
-        Data Presentation team. Prior to that, I was at Citi Bank as a{" "}
+        Workflows team. Prior to that, I was at Citi Bank as a{" "}
         <strong style={{ color: secondary }}>Software Developer Intern</strong>,
         and at Citylitics Inc. as a{" "}
         <strong style={{ color: secondary }}>
