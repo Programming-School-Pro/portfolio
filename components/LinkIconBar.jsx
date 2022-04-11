@@ -7,17 +7,18 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { BiLink } from "react-icons/bi";
-import { FaDev, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaLinkedin, FaYoutube } from "react-icons/fa";
 import { IoMdDocument } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import { VscGithubInverted } from "react-icons/vsc";
+import { SiHashnode } from 'react-icons/si";
 
 import { colors } from "../theme";
 
 const icons = {
   github: VscGithubInverted,
   linkedin: FaLinkedin,
-  devpost: FaDev,
+  devpost: SiHashnode,
   email: MdEmail,
   document: IoMdDocument,
   youtube: FaYoutube,
